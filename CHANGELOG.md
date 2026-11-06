@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/playtron-os/cosmic-session/compare/v1.2.9...v1.2.10) (2026-11-06)
+
+
+### Bug Fixes
+
+* **rpm:** require Playtron's cosmic-idle ([75d3f71](https://github.com/playtron-os/cosmic-session/commit/75d3f711fcca0b263dfb5d0558f29ff96182f4ef))
+
 ## [1.2.9](https://github.com/playtron-os/cosmic-session/compare/v1.2.8...v1.2.9) (2026-10-23)
 
 
